@@ -18,6 +18,7 @@ Example of product: https://www.youtube.com/channel/UCgFyMiqP4ItMhvb05M3d9-w
 
 **Facts:**
 - Minimal storage required for application (generation of video requires extra room)
+- Made for Windows.exe
 
 # Download/Learn more
 If you wish to learn more about the application please visit the Discord: https://discord.gg/eGNnANgTq4
